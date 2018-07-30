@@ -1,1 +1,1 @@
-# es6.training
+# es6.training > http://es6katas.org/
